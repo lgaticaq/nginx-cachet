@@ -1,4 +1,4 @@
-FROM nginx:1.11.9-alpine@sha256:d34e2176dab830485b0cb79340e1d5ebf7d530b34ad7bfe05d269ffed20a88f4
+FROM nginx:1.13.6-alpine@sha256:dc5f67a48da730d67bf4bfb8824ea8a51be26711de090d6d5a1ffff2723168a3
 
 LABEL maintainer "Leonardo Gatica <lgatica@protonmail.com>"
 
